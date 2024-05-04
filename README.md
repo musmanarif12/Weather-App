@@ -14,4 +14,6 @@ Technologies Used
     2. Axios: Used for making HTTP requests to the OpenWeatherMap API.
     3. OpenWeatherMap API: Provides the real-time weather data.
 
-    ![Screenshot 2024-05-04 140137](https://github.com/musmanarif12/Weather-App/assets/147609201/a4661172-ef6a-4ac3-b4f3-947b3edc49b3)
+
+![Screenshot 2024-05-04 140137](https://github.com/musmanarif12/Weather-App/assets/147609201/b7ce21a0-cf15-462c-940f-65e872acd175)
+
